@@ -16,7 +16,8 @@ A Collection of AIGC Research Groups
 ### Mainland(大陆)
 
 - [Wangmeng Zuo-HIT(左旺孟团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/wangmengzuo)
-- [Jun Zhu-THU(朱军-清华大学)](https://ml.cs.tsinghua.edu.cn/~jun/research.shtml)
+- [Jun Zhu-THU(朱军团队-清华大学)](https://ml.cs.tsinghua.edu.cn/~jun/research.shtml)
+- [Bo Dai-Shanghai AI Laboratory(戴勃团队-上海人工智能实验室)](https://daibo.info/)
 
 # Germany(德国)
 
@@ -36,8 +37,9 @@ A Collection of AIGC Research Groups
 # United States(美国)
 
 - [Alexei A. Efros-UC Berkeley](https://people.eecs.berkeley.edu/~efros/)
-- [Bolei Zhou-UCLA](https://boleizhou.github.io/)
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
+- [Bolei Zhou-UCLA](https://boleizhou.github.io/)
 - [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
 - [Richard Zhang-Adobe](http://richzhang.github.io/)
 - [Jun-Yan Zhu-CMU](https://www.cs.cmu.edu/~junyanz/)
+- [Maneesh Agrawala-Stanford University](https://graphics.stanford.edu/~maneesh/)
