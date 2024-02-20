@@ -40,4 +40,4 @@ A Collection of AIGC Research Groups
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
 - [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
 - [Richard Zhang-Adobe](http://richzhang.github.io/)
-- [Jun-Yan Zhu-CMU](
+- [Jun-Yan Zhu-CMU](https://www.cs.cmu.edu/~junyanz/)
