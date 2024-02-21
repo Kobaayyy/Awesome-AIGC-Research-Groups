@@ -37,6 +37,7 @@ A Collection of AIGC Research Groups
 # United States(美国)
 
 - [Alexei A. Efros-UC Berkeley](https://people.eecs.berkeley.edu/~efros/)
+- [Trevor Darrell-UC Berkeley](https://people.eecs.berkeley.edu/~trevor/)
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
 - [Bolei Zhou-UCLA](https://boleizhou.github.io/)
 - [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
