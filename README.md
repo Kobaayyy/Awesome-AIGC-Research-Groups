@@ -44,3 +44,5 @@ A Collection of AIGC Research Groups
 - [Richard Zhang-Adobe](http://richzhang.github.io/)
 - [Jun-Yan Zhu-CMU](https://www.cs.cmu.edu/~junyanz/)
 - [Maneesh Agrawala-Stanford University](https://graphics.stanford.edu/~maneesh/)
+- [Zhangyang (Atlas) Wang-UT-Austin](https://vita-group.github.io/)
+
