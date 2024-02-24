@@ -1,4 +1,5 @@
 # Awesome-AIGC-Research-Groups[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A Collection of AIGC Research Groups
 
 **Please feel free to star, fork or PR if helpful~**
@@ -16,8 +17,8 @@ A Collection of AIGC Research Groups
 ### Mainland(大陆)
 
 - [Wangmeng Zuo-HIT(左旺孟团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/wangmengzuo)
-- [Jun Zhu-THU(朱军团队-清华大学)](https://ml.cs.tsinghua.edu.cn/~jun/research.shtml)
 - [Bo Dai-Shanghai AI Laboratory(戴勃团队-上海人工智能实验室)](https://daibo.info/)
+- [Jun Zhu-THU(朱军团队-清华大学)](https://ml.cs.tsinghua.edu.cn/~jun/research.shtml)
 
 # Germany(德国)
 
@@ -28,6 +29,7 @@ A Collection of AIGC Research Groups
 - [Chen Change Loy-NTU](https://www.mmlab-ntu.com/person/ccloy/index.html)
 - [Ziwei Liu-NTU](https://liuziwei7.github.io/)
 - [Mike Z. Shou-NUS](https://sites.google.com/view/showlab)
+- [Xinchao Wang-NUS](https://sites.google.com/site/sitexinchaowang/)
 
 # Switzerland(瑞士)
 
@@ -36,13 +38,16 @@ A Collection of AIGC Research Groups
 
 # United States(美国)
 
+- [Richard Zhang-Adobe](http://richzhang.github.io/)
+- [Jun-Yan Zhu-CMU](https://www.cs.cmu.edu/~junyanz/)
+- [Fernando De la Torre-CMU](https://www.cs.cmu.edu/~ftorre/index.html)
+- [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
+- [William T. Freeman-MIT](http://billf.mit.edu/about/bio)
+- [Saining Xie-NYU](https://www.sainingxie.com/)
+- [Maneesh Agrawala-Stanford University](https://graphics.stanford.edu/~maneesh/)
 - [Alexei A. Efros-UC Berkeley](https://people.eecs.berkeley.edu/~efros/)
 - [Trevor Darrell-UC Berkeley](https://people.eecs.berkeley.edu/~trevor/)
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
 - [Bolei Zhou-UCLA](https://boleizhou.github.io/)
-- [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
-- [Richard Zhang-Adobe](http://richzhang.github.io/)
-- [Jun-Yan Zhu-CMU](https://www.cs.cmu.edu/~junyanz/)
-- [Maneesh Agrawala-Stanford University](https://graphics.stanford.edu/~maneesh/)
+- [ Andrew Owens-UMich](https://andrewowens.com/)
 - [Zhangyang (Atlas) Wang-UT-Austin](https://vita-group.github.io/)
-
