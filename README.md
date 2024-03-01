@@ -45,6 +45,7 @@ A Collection of AIGC Research Groups
 - [Fernando De la Torre-CMU](https://www.cs.cmu.edu/~ftorre/index.html)
 - [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
 - [William T. Freeman-MIT](http://billf.mit.edu/about/bio)
+- [Song Han-MIT](https://hanlab.mit.edu/)
 - [Saining Xie-NYU](https://www.sainingxie.com/)
 - [Maneesh Agrawala-Stanford University](https://graphics.stanford.edu/~maneesh/)
 - [Gordon Wetzstein-Stanford University](https://web.stanford.edu/~gordonwz/)
