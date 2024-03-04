@@ -16,10 +16,11 @@ A Collection of AIGC Research Groups
 
 ### Mainland(大陆)
 
-- [Liefeng Bo-Alibaba(薄列峰-阿里巴巴公司)](https://research.cs.washington.edu/istc/lfb/)
+- [Liefeng Bo-Alibaba(薄列峰团队-阿里巴巴公司)](https://research.cs.washington.edu/istc/lfb/)
 - [Wangmeng Zuo-HIT(左旺孟团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/wangmengzuo)
 - [Bo Dai-Shanghai AI Laboratory(戴勃团队-上海人工智能实验室)](https://daibo.info/)
 - [Jun Zhu-THU(朱军团队-清华大学)](https://ml.cs.tsinghua.edu.cn/~jun/research.shtml)
+- [Yebin Liu-THU(刘烨斌团队-清华大学)](https://www.liuyebin.com/index.html)
 
 # Germany(德国)
 
