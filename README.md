@@ -53,7 +53,8 @@ A Collection of AIGC Research Groups
 - [Trevor Darrell-UC Berkeley](https://people.eecs.berkeley.edu/~trevor/)
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
 - [Bolei Zhou-UCLA](https://boleizhou.github.io/)
-- [ Andrew Owens-UMich](https://andrewowens.com/)
+- [Zhuowen Tu-UCSD](https://pages.ucsd.edu/~ztu/)
+- [Andrew Owens-UMich](https://andrewowens.com/)
 - [Zhangyang (Atlas) Wang-UT-Austin](https://vita-group.github.io/)
 
 # Related Collections(相关整理)：
