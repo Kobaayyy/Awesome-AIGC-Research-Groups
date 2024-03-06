@@ -70,6 +70,7 @@ A Collection of AIGC Research Groups
 
 # Related Collections(相关整理)：
 
+- [Awesome-CVPR2024-AIGC](https://github.com/Kobaayyy/Awesome-CVPR2024-AIGC)
 - [Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups)
 - [Awesome-CVPR2021/CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision)
 - [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
