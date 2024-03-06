@@ -38,6 +38,11 @@ A Collection of AIGC Research Groups
 - [Mike Z. Shou-NUS](https://sites.google.com/view/showlab)
 - [Xinchao Wang-NUS](https://sites.google.com/site/sitexinchaowang/)
 
+# South Korea(韩国)
+
+- [Jong Chul Ye-KAIST](https://bispl.weebly.com/professor.html)
+
+  
 # Switzerland(瑞士)
 
 - [Luc Van Gool-ETH Zurich](https://vision.ee.ethz.ch/)
@@ -60,6 +65,7 @@ A Collection of AIGC Research Groups
 - [Bolei Zhou-UCLA](https://boleizhou.github.io/)
 - [Zhuowen Tu-UCSD](https://pages.ucsd.edu/~ztu/)
 - [Andrew Owens-UMich](https://andrewowens.com/)
+- [Yong Jae Lee-UWM](https://pages.cs.wisc.edu/~yongjaelee/)
 - [Zhangyang (Atlas) Wang-UT-Austin](https://vita-group.github.io/)
 
 # Related Collections(相关整理)：
