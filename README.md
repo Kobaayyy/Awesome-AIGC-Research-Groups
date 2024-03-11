@@ -42,6 +42,8 @@ A Collection of AIGC Research Groups
 # South Korea(韩国)
 
 - [Jong Chul Ye-KAIST](https://bispl.weebly.com/professor.html)
+- [Jaegul Choo-KAIST](https://sites.google.com/site/jaegulchoo/)
+
 
   
 # Switzerland(瑞士)
