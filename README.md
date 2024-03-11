@@ -19,6 +19,7 @@ A Collection of AIGC Research Groups
 - [Liefeng Bo-Alibaba(薄列峰团队-阿里巴巴公司)](https://research.cs.washington.edu/istc/lfb/)
 - [Yanwei Fu-FDU(付彦伟团队-复旦大学)](https://yanweifu.github.io/index.html)
 - [Wangmeng Zuo-HIT(左旺孟团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/wangmengzuo)
+- [Limin Wang-NJU(王利民团队-南京大学)](http://wanglimin.github.io/)
 - [Bin Cui-PKU(崔斌团队-北京大学)](https://cuibinpku.github.io/)
 - [Jian Zhang-PKU(张健团队-北京大学)](https://villa.jianzhang.tech/#top)
 - [Bo Dai-Shanghai AI Laboratory(戴勃团队-上海人工智能实验室)](https://daibo.info/)
