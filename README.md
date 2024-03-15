@@ -69,6 +69,7 @@ A Collection of AIGC Research Groups
 - [Bolei Zhou-UCLA](https://boleizhou.github.io/)
 - [Zhuowen Tu-UCSD](https://pages.ucsd.edu/~ztu/)
 - [Andrew Owens-UMich](https://andrewowens.com/)
+- [Joyce Y. Chai-UMich](https://web.eecs.umich.edu/~chaijy/)
 - [Yong Jae Lee-UWM](https://pages.cs.wisc.edu/~yongjaelee/)
 - [Zhangyang (Atlas) Wang-UT-Austin](https://vita-group.github.io/)
 
