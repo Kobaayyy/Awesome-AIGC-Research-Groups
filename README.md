@@ -32,6 +32,11 @@ A Collection of AIGC Research Groups
 
 - [Björn Ommer-LMU](https://ommer-lab.com/)
 
+# Italy(意大利)
+
+- [Rita Cucchiara-UNIMORE](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=1)
+- [Nicu Sebe-UniTn](https://disi.unitn.it/~sebe/)
+
 # Singapore(新加坡)
 
 - [Chen Change Loy-NTU](https://www.mmlab-ntu.com/person/ccloy/index.html)
