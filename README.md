@@ -25,6 +25,7 @@ A Collection of AIGC Research Groups
 - [Bo Dai-Shanghai AI Laboratory(戴勃团队-上海人工智能实验室)](https://daibo.info/)
 - [Hui Huang-SZU(黄惠团队-深圳大学)](https://vcc.tech/~huihuang/home)
 - [Xintao Wang-Tencent(王鑫涛团队-腾讯公司)](https://xinntao.github.io/)
+- [Gang Yu-Tencent(俞刚团队-腾讯公司)](https://www.skicyyu.org/)
 - [Jun Zhu-THU(朱军团队-清华大学)](https://ml.cs.tsinghua.edu.cn/~jun/research.shtml)
 - [Yebin Liu-THU(刘烨斌团队-清华大学)](https://www.liuyebin.com/index.html)
 
