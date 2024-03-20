@@ -28,6 +28,7 @@ A Collection of AIGC Research Groups
 - [Gang Yu-Tencent(俞刚团队-腾讯公司)](https://www.skicyyu.org/)
 - [Jun Zhu-THU(朱军团队-清华大学)](https://ml.cs.tsinghua.edu.cn/~jun/research.shtml)
 - [Yebin Liu-THU(刘烨斌团队-清华大学)](https://www.liuyebin.com/index.html)
+- [Chunhua Shen-ZJU(沈春华团队-浙江大学)](https://cshen.github.io/paper.html)
 
 # Germany(德国)
 
