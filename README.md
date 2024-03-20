@@ -33,6 +33,10 @@ A Collection of AIGC Research Groups
 
 - [Björn Ommer-LMU](https://ommer-lab.com/)
 
+# Israel(以色列)
+
+- [Tali Dekel-Weizmann Institute of Science](https://www.weizmann.ac.il/math/dekel/)
+  
 # Italy(意大利)
 
 - [Rita Cucchiara-UNIMORE](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=1)
@@ -64,6 +68,7 @@ A Collection of AIGC Research Groups
 - [Jun-Yan Zhu-CMU](https://www.cs.cmu.edu/~junyanz/)
 - [Fernando De la Torre-CMU](https://www.cs.cmu.edu/~ftorre/index.html)
 - [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
+- [Lichao Sun-LU](https://lichao-sun.github.io/index.html)
 - [William T. Freeman-MIT](http://billf.mit.edu/about/bio)
 - [Song Han-MIT](https://hanlab.mit.edu/)
 - [Saining Xie-NYU](https://www.sainingxie.com/)
