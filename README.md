@@ -74,6 +74,7 @@ A Collection of AIGC Research Groups
 - [William T. Freeman-MIT](http://billf.mit.edu/about/bio)
 - [Song Han-MIT](https://hanlab.mit.edu/)
 - [Saining Xie-NYU](https://www.sainingxie.com/)
+- [Dimitris N. Metaxas-RU](https://people.cs.rutgers.edu/~dnm/)
 - [Maneesh Agrawala-Stanford University](https://graphics.stanford.edu/~maneesh/)
 - [Gordon Wetzstein-Stanford University](https://web.stanford.edu/~gordonwz/)
 - [Alexei A. Efros-UC Berkeley](https://people.eecs.berkeley.edu/~efros/)
