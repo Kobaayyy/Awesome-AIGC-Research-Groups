@@ -37,6 +37,7 @@ A Collection of AIGC Research Groups
 
 # Israel(以色列)
 
+- [Daniel Cohen-Or-TAU](https://danielcohenor.com/)
 - [Tali Dekel-Weizmann Institute of Science](https://www.weizmann.ac.il/math/dekel/)
   
 # Italy(意大利)
