@@ -6,6 +6,10 @@ A Collection of AIGC Research Groups
 
 **收集了国内外做AIGC相关研究的团队(谷歌学术引用5000+)如下，欢迎star，fork和PR~**
 
+# Canada(加拿大)
+
+- [Wenhu Chen-UWaterloo](https://wenhuchen.github.io/index.html)
+
 # China(中国)
 
 ### Hong Kong(香港)
