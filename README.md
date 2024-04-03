@@ -74,6 +74,7 @@ A Collection of AIGC Research Groups
 # United States(美国)
 
 - [Richard Zhang-Adobe](http://richzhang.github.io/)
+- [Yezhou Yang-ASU](https://faculty.engineering.asu.edu/yezhouyang/research/)
 - [Jun-Yan Zhu-CMU](https://www.cs.cmu.edu/~junyanz/)
 - [Fernando De la Torre-CMU](https://www.cs.cmu.edu/~ftorre/index.html)
 - [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
