@@ -28,6 +28,7 @@ A Collection of AIGC Research Groups
 - [Limin Wang-NJU(王利民团队-南京大学)](http://wanglimin.github.io/)
 - [Bin Cui-PKU(崔斌团队-北京大学)](https://cuibinpku.github.io/)
 - [Jian Zhang-PKU(张健团队-北京大学)](https://villa.jianzhang.tech/#top)
+- [Li Yuan-PKU(袁粒团队-北京大学)](https://yuanli2333.github.io/)
 - [Bo Dai-Shanghai AI Laboratory(戴勃团队-上海人工智能实验室)](https://daibo.info/)
 - [Hui Huang-SZU(黄惠团队-深圳大学)](https://vcc.tech/~huihuang/home)
 - [Xintao Wang-Tencent(王鑫涛团队-腾讯公司)](https://xinntao.github.io/)
