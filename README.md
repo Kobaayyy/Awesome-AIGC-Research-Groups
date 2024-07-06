@@ -6,6 +6,15 @@ A Collection of AIGC Research Groups
 
 **收集了国内外做AIGC相关研究的团队(谷歌学术引用5000+)如下，欢迎star，fork和PR~**
 
+
+# Related Collections(相关整理)：
+
+- [Awesome-CVPR2024-ECCV2024-AIGC](https://github.com/Kobaayyy/Awesome-CVPR2024-ECCV2024-AIGC)
+- [Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups)
+- [Awesome-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision)
+- [Awesome-ECCV2024-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
+- [Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
+  
 # Canada(加拿大)
 
 - [Wenhu Chen-UWaterloo](https://wenhuchen.github.io/index.html)
@@ -108,10 +117,3 @@ A Collection of AIGC Research Groups
 - [Yong Jae Lee-UWM](https://pages.cs.wisc.edu/~yongjaelee/)
 - [Zhangyang (Atlas) Wang-UT-Austin](https://vita-group.github.io/)
 
-# Related Collections(相关整理)：
-
-- [Awesome-CVPR2024-AIGC](https://github.com/Kobaayyy/Awesome-CVPR2024-AIGC)
-- [Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups)
-- [Awesome-CVPR2021/CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision)
-- [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
-- [Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
