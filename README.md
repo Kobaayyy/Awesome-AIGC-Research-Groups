@@ -20,6 +20,7 @@ A Collection of AIGC Research Groups
 - [Dong Xu-HKU(徐东团队-香港大学)](https://www.cs.hku.hk/people/academic-staff/dongxu)
 - [Hengshuang Zhao-HKU(赵恒爽团队-香港大学)](https://hszhao.github.io/)
 - [Qifeng Chen-HKUST(陈启峰团队-香港科技大学)](https://cqf.io/)
+- [Wenhan Luo-HKUST(罗文寒团队-香港科技大学)](https://whluo.github.io/)
 
 ### Mainland(大陆)
 
@@ -68,12 +69,17 @@ A Collection of AIGC Research Groups
 
 - [Jong Chul Ye-KAIST](https://bispl.weebly.com/professor.html)
 - [Jaegul Choo-KAIST](https://sites.google.com/site/jaegulchoo/)
+- [Tae-Kyun (T-K) Kim-KAIST](https://sites.google.com/view/tkkim/home)
 
 
   
 # Switzerland(瑞士)
 
 - [Luc Van Gool-ETH Zurich](https://vision.ee.ethz.ch/)
+
+# United Arab Emirates(阿联酋)
+
+- [Fahad Shahbaz Khan-MBZUAI](https://sites.google.com/view/fahadkhans/home)
 
 
 # United States(美国)
