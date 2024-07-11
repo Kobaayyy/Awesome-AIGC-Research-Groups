@@ -72,6 +72,7 @@ A Collection of AIGC Research Groups
 - [Tat-Jen Cham-NTU](https://personal.ntu.edu.sg/astjcham/index.html)
 - [Mike Z. Shou-NUS](https://sites.google.com/view/showlab)
 - [Xinchao Wang-NUS](https://sites.google.com/site/sitexinchaowang/)
+- [Yang You-NUS](https://ai.comp.nus.edu.sg/)
 - [Shengfeng He-SMU](http://www.shengfenghe.com/)
 
 # South Korea(韩国)
