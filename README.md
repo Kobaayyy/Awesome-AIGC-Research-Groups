@@ -54,6 +54,7 @@ A Collection of AIGC Research Groups
 # Germany(德国)
 
 - [Björn Ommer-LMU](https://ommer-lab.com/)
+- [Justus Thies-TU Darmstadt](https://justusthies.github.io/)
 
 # Israel(以色列)
 
