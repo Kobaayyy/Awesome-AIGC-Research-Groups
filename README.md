@@ -92,6 +92,10 @@ A Collection of AIGC Research Groups
 
 - [Fahad Shahbaz Khan-MBZUAI](https://sites.google.com/view/fahadkhans/home)
 
+# United Kingdom(英国)
+
+- [Andrea Vedaldi-Oxford](https://www.robots.ox.ac.uk/~vedaldi/)
+
 
 # United States(美国)
 
