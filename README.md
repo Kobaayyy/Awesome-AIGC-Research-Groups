@@ -44,6 +44,7 @@ A Collection of AIGC Research Groups
 - [Li Yuan-PKU(袁粒团队-北京大学)](https://yuanli2333.github.io/)
 - [Bo Dai-Shanghai AI Laboratory(戴勃团队-上海人工智能实验室)](https://daibo.info/)
 - [Kai Chen-Shanghai AI Laboratory(陈恺团队-上海人工智能实验室)](https://chenkai.site/)
+- [Liang Lin-SYSUy(林倞团队-中山大学)](http://www.linliang.net/)
 - [Hui Huang-SZU(黄惠团队-深圳大学)](https://vcc.tech/~huihuang/home)
 - [Xintao Wang-Tencent(王鑫涛团队-腾讯公司)](https://xinntao.github.io/)
 - [Gang Yu-Tencent(俞刚团队-腾讯公司)](https://www.skicyyu.org/)
