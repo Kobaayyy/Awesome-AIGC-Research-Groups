@@ -84,6 +84,9 @@ A Collection of AIGC Research Groups
 - [Jaegul Choo-KAIST](https://sites.google.com/site/jaegulchoo/)
 - [Tae-Kyun (T-K) Kim-KAIST](https://sites.google.com/view/tkkim/home)
 
+# Spain(西班牙)
+
+- [Joost van de Weijer-UAB](http://lamp.cvc.uab.es/home/)
 
   
 # Switzerland(瑞士)
