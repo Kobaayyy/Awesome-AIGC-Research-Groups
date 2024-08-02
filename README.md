@@ -100,6 +100,7 @@ A Collection of AIGC Research Groups
 # United Kingdom(英国)
 
 - [Andrea Vedaldi-Oxford](https://www.robots.ox.ac.uk/~vedaldi/)
+- [Philip Torr-Oxford](https://www.robots.ox.ac.uk/~phst/)
 
 
 # United States(美国)
