@@ -117,6 +117,7 @@ A Collection of AIGC Research Groups
 - [Saining Xie-NYU](https://www.sainingxie.com/)
 - [Sharon X. Huang-PSU](https://faculty.ist.psu.edu/suh972/)
 - [Dimitris N. Metaxas-RU](https://people.cs.rutgers.edu/~dnm/)
+- [Dimitris Samaras-SBU](https://www3.cs.stonybrook.edu/~samaras/)
 - [Maneesh Agrawala-Stanford University](https://graphics.stanford.edu/~maneesh/)
 - [Gordon Wetzstein-Stanford University](https://web.stanford.edu/~gordonwz/)
 - [Alexei A. Efros-UC Berkeley](https://people.eecs.berkeley.edu/~efros/)
