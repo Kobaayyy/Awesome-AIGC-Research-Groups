@@ -122,6 +122,7 @@ A Collection of AIGC Research Groups
 - [Gordon Wetzstein-Stanford University](https://web.stanford.edu/~gordonwz/)
 - [Alexei A. Efros-UC Berkeley](https://people.eecs.berkeley.edu/~efros/)
 - [Trevor Darrell-UC Berkeley](https://people.eecs.berkeley.edu/~trevor/)
+- [Chen Chen-UCF](https://www.crcv.ucf.edu/chenchen/index.html)
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
 - [Bolei Zhou-UCLA](https://boleizhou.github.io/)
 - [Zhuowen Tu-UCSD](https://pages.ucsd.edu/~ztu/)
