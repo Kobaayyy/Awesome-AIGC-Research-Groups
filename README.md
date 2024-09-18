@@ -57,6 +57,7 @@ A Collection of AIGC Research Groups
 
 - [Björn Ommer-LMU](https://ommer-lab.com/)
 - [Justus Thies-TU Darmstadt](https://justusthies.github.io/)
+- [Zeynep Akata-TUM](https://www.eml-unitue.de/)
 
 # Israel(以色列)
 
@@ -67,6 +68,10 @@ A Collection of AIGC Research Groups
 
 - [Rita Cucchiara-UNIMORE](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=1)
 - [Nicu Sebe-UniTn](https://disi.unitn.it/~sebe/)
+
+# Kingdom of Saudi Arabia(沙特阿拉伯)
+
+- [Mohamed Elhoseiny-KAUST](https://www.mohamed-elhoseiny.com/)
 
 # Singapore(新加坡)
 
@@ -83,6 +88,7 @@ A Collection of AIGC Research Groups
 - [Jong Chul Ye-KAIST](https://bispl.weebly.com/professor.html)
 - [Jaegul Choo-KAIST](https://sites.google.com/site/jaegulchoo/)
 - [Tae-Kyun (T-K) Kim-KAIST](https://sites.google.com/view/tkkim/home)
+- [Jaesik Park-SNU](https://jaesik.info/)
 
 # Spain(西班牙)
 
@@ -125,6 +131,7 @@ A Collection of AIGC Research Groups
 - [Chen Chen-UCF](https://www.crcv.ucf.edu/chenchen/index.html)
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
 - [Bolei Zhou-UCLA](https://boleizhou.github.io/)
+- [Shiyu Chang-UCSB](https://code-terminator.github.io/)
 - [Zhuowen Tu-UCSD](https://pages.ucsd.edu/~ztu/)
 - [Andrew Owens-UMich](https://andrewowens.com/)
 - [Joyce Y. Chai-UMich](https://web.eecs.umich.edu/~chaijy/)
