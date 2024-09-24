@@ -72,6 +72,7 @@ A Collection of AIGC Research Groups
 # Kingdom of Saudi Arabia(沙特阿拉伯)
 
 - [Mohamed Elhoseiny-KAUST](https://www.mohamed-elhoseiny.com/)
+- [Peter Wonka-KAUST](https://peterwonka.net/)
 
 # Singapore(新加坡)
 
