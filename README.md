@@ -46,12 +46,13 @@ A Collection of AIGC Research Groups
 - [Kai Chen-Shanghai AI Laboratory(陈恺团队-上海人工智能实验室)](https://chenkai.site/)
 - [Liang Lin-SYSUy(林倞团队-中山大学)](http://www.linliang.net/)
 - [Hui Huang-SZU(黄惠团队-深圳大学)](https://vcc.tech/~huihuang/home)
-- [Xintao Wang-Tencent(王鑫涛团队-腾讯公司)](https://xinntao.github.io/)
+- [Xintao Wang-Kuashou(王鑫涛团队-快手公司)](https://xinntao.github.io/)
 - [Gang Yu-Tencent(俞刚团队-腾讯公司)](https://www.skicyyu.org/)
 - [Jun Zhu-THU(朱军团队-清华大学)](https://ml.cs.tsinghua.edu.cn/~jun/research.shtml)
 - [Yebin Liu-THU(刘烨斌团队-清华大学)](https://www.liuyebin.com/index.html)
 - [Nannan Wang-XDU(王楠楠团队-西安电子科技大学)](https://iip-xdu.github.io/index.html)
 - [Chunhua Shen-ZJU(沈春华团队-浙江大学)](https://cshen.github.io/paper.html)
+- [Yi Yang-ZJU(杨易团队-浙江大学)](https://reler.net/)
 
 # Germany(德国)
 
