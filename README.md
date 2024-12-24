@@ -82,6 +82,10 @@ A Collection of AIGC Research Groups
 - [Mohamed Elhoseiny-KAUST](https://www.mohamed-elhoseiny.com/)
 - [Peter Wonka-KAUST](https://peterwonka.net/)
 
+# Russia(俄罗斯)
+
+- [Evgeny Burnaev-Skoltech](https://faculty.skoltech.ru/people/evgenyburnaev)
+  
 # Singapore(新加坡)
 
 - [Chen Change Loy-NTU](https://www.mmlab-ntu.com/person/ccloy/index.html)
@@ -126,6 +130,7 @@ A Collection of AIGC Research Groups
 - [Fernando De la Torre-CMU](https://www.cs.cmu.edu/~ftorre/index.html)
 - [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
 - [Vishal M. Patel-JHU](https://engineering.jhu.edu/vpatel36/)
+- [Alan Yuille-JHU](https://www.cs.jhu.edu/~ayuille/)
 - [Lichao Sun-LU](https://lichao-sun.github.io/index.html)
 - [William T. Freeman-MIT](http://billf.mit.edu/about/bio)
 - [Song Han-MIT](https://hanlab.mit.edu/)
@@ -141,6 +146,7 @@ A Collection of AIGC Research Groups
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
 - [Bolei Zhou-UCLA](https://boleizhou.github.io/)
 - [Shiyu Chang-UCSB](https://code-terminator.github.io/)
+- [Cihang Xie-UCSC](https://cihangxie.github.io/)
 - [Zhuowen Tu-UCSD](https://pages.ucsd.edu/~ztu/)
 - [Andrew Owens-UMich](https://andrewowens.com/)
 - [Joyce Y. Chai-UMich](https://web.eecs.umich.edu/~chaijy/)
