@@ -60,6 +60,7 @@ A Collection of AIGC Research Groups
 - [Yujiu Yang-THU(杨余久团队-清华大学)](https://sites.google.com/view/iigroup-thu/home)
 - [Guo-Jun Qi-WLU(齐国君团队-西湖大学)](http://maple-lab.net/)
 - [Nannan Wang-XDU(王楠楠团队-西安电子科技大学)](https://iip-xdu.github.io/index.html)
+- [Rongrong Ji-XMU(纪荣嵘团队-厦门大学)](https://mac.xmu.edu.cn/)
 - [Chunhua Shen-ZJU(沈春华团队-浙江大学)](https://cshen.github.io/paper.html)
 - [Yi Yang-ZJU(杨易团队-浙江大学)](https://reler.net/)
 
