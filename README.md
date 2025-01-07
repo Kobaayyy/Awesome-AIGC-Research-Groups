@@ -28,6 +28,7 @@ A Collection of AIGC Research Groups
 - [Hongsheng Li-CUHK(李鸿升团队-香港中文大学)](https://www.ee.cuhk.edu.hk/~hsli/)
 - [Dong Xu-HKU(徐东团队-香港大学)](https://www.cs.hku.hk/people/academic-staff/dongxu)
 - [Hengshuang Zhao-HKU(赵恒爽团队-香港大学)](https://hszhao.github.io/)
+- [Ping Luo-HKU(罗平团队-香港大学)](http://luoping.me/)
 - [Kwan-Yee Kenneth Wong-HKU(黄君义团队-香港大学)](https://i.cs.hku.hk/~kykwong/)
 - [Qifeng Chen-HKUST(陈启峰团队-香港科技大学)](https://cqf.io/)
 - [Wenhan Luo-HKUST(罗文寒团队-香港科技大学)](https://whluo.github.io/)
