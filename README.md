@@ -73,6 +73,7 @@ A Collection of AIGC Research Groups
 
 # Israel(以色列)
 
+- [Dani Lischinski-HUJI](https://www.cs.huji.ac.il/~danix/)
 - [Daniel Cohen-Or-TAU](https://danielcohenor.com/)
 - [Tali Dekel-Weizmann Institute of Science](https://www.weizmann.ac.il/math/dekel/)
   
