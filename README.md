@@ -106,6 +106,7 @@ A Collection of AIGC Research Groups
 - [Jong Chul Ye-KAIST](https://bispl.weebly.com/professor.html)
 - [Jaegul Choo-KAIST](https://sites.google.com/site/jaegulchoo/)
 - [Tae-Kyun (T-K) Kim-KAIST](https://sites.google.com/view/tkkim/home)
+- [Jinwoo Shin-KAIST](https://alinlab.kaist.ac.kr/shin.html)
 - [Jaesik Park-SNU](https://jaesik.info/)
 
 # Spain(西班牙)
