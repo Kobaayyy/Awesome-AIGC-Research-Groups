@@ -65,6 +65,10 @@ A Collection of AIGC Research Groups
 - [Chunhua Shen-ZJU(沈春华团队-浙江大学)](https://cshen.github.io/paper.html)
 - [Yi Yang-ZJU(杨易团队-浙江大学)](https://reler.net/)
 
+# Finland(芬兰)
+
+- [Jaakko Lehtinen-Aalto](https://users.aalto.fi/~lehtinj7/)
+
 # Germany(德国)
 
 - [Björn Ommer-LMU](https://ommer-lab.com/)
