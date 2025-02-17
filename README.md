@@ -138,6 +138,7 @@ A Collection of AIGC Research Groups
 - [Yezhou Yang-ASU](https://faculty.engineering.asu.edu/yezhouyang/research/)
 - [Jun-Yan Zhu-CMU](https://www.cs.cmu.edu/~junyanz/)
 - [Fernando De la Torre-CMU](https://www.cs.cmu.edu/~ftorre/index.html)
+- [Bhiksha Raj-CMU](https://cmu-mlsp.github.io/)
 - [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
 - [Vishal M. Patel-JHU](https://engineering.jhu.edu/vpatel36/)
 - [Alan Yuille-JHU](https://www.cs.jhu.edu/~ayuille/)
