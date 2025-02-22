@@ -33,6 +33,7 @@ A Collection of AIGC Research Groups
 - [Qifeng Chen-HKUST(陈启峰团队-香港科技大学)](https://cqf.io/)
 - [Wenhan Luo-HKUST(罗文寒团队-香港科技大学)](https://whluo.github.io/)
 - [Long Chen-HKUST(陈隆团队-香港科技大学)](https://long-group.cse.ust.hk/)
+- [Chi Keung Tang-HKUST(邓智強团队-香港科技大学)](https://cse.hkust.edu.hk/~cktang/bio.html)
 
 ### Mainland(大陆)
 
@@ -112,6 +113,7 @@ A Collection of AIGC Research Groups
 - [Jaegul Choo-KAIST](https://sites.google.com/site/jaegulchoo/)
 - [Tae-Kyun (T-K) Kim-KAIST](https://sites.google.com/view/tkkim/home)
 - [Jinwoo Shin-KAIST](https://alinlab.kaist.ac.kr/shin.html)
+- [Chang D. Yoo-KAIST](https://sanctusfactory.com/u-aim/)
 - [Jaesik Park-SNU](https://jaesik.info/)
 
 # Spain(西班牙)
