@@ -147,6 +147,7 @@ A Collection of AIGC Research Groups
 - [Alan Yuille-JHU](https://www.cs.jhu.edu/~ayuille/)
 - [Lichao Sun-LU](https://lichao-sun.github.io/index.html)
 - [William T. Freeman-MIT](http://billf.mit.edu/about/bio)
+- [Kaiming He-MIT](https://people.csail.mit.edu/kaiming/)
 - [Song Han-MIT](https://hanlab.mit.edu/)
 - [Saining Xie-NYU](https://www.sainingxie.com/)
 - [Sharon X. Huang-PSU](https://faculty.ist.psu.edu/suh972/)
