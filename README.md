@@ -44,6 +44,7 @@ A Collection of AIGC Research Groups
 - [Yi Jiang-Bytedance(江毅团队-字节跳动公司)](https://enjoyyi.github.io/)
 - [Yanwei Fu-FDU(付彦伟团队-复旦大学)](https://yanweifu.github.io/index.html)
 - [Yu-Gang Jiang-FDU(姜育刚团队-复旦大学)](https://fvl.fudan.edu.cn/)
+- [Henghui Ding-FDU(丁恒辉团队-复旦大学)](https://henghuiding.com/)
 - [Wangmeng Zuo-HIT(左旺孟团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/wangmengzuo)
 - [Xinggang Wang-HUST(王兴刚团队-华中科技大学)](https://xwcv.github.io/index.htm)
 - [Xintao Wang-Kuashou(王鑫涛团队-快手公司)](https://xinntao.github.io/)
