@@ -6,6 +6,7 @@ A Collection of AIGC Research Groups
 
 **收集了国内外做AIGC相关研究的团队(谷歌学术引用5000+)如下，欢迎star，fork和PR~**
 
+# 底层视觉社区信息平台：https://lowlevelcv.com/
 
 # Related Collections(相关整理)：
 
