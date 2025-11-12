@@ -72,6 +72,7 @@ A Collection of AIGC Research Groups
 - [Rongrong Ji-XMU(纪荣嵘团队-厦门大学)](https://mac.xmu.edu.cn/)
 - [Chunhua Shen-ZJU(沈春华团队-浙江大学)](https://cshen.github.io/paper.html)
 - [Yi Yang-ZJU(杨易团队-浙江大学)](https://reler.net/)
+- [Bohan Zhuang-ZJU(庄博涵团队-浙江大学)](https://ziplab.co/)
 
 # Finland(芬兰)
 
