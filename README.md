@@ -135,6 +135,7 @@ A Collection of AIGC Research Groups
 # Switzerland(瑞士)
 
 - [Luc Van Gool-ETH Zurich](https://vision.ee.ethz.ch/)
+- [Andreas Krause-ETH Zurich](https://las.inf.ethz.ch/)
 
 # United Arab Emirates(阿联酋)
 
