@@ -98,6 +98,10 @@ A Collection of AIGC Research Groups
 - [Rita Cucchiara-UNIMORE](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=1)
 - [Nicu Sebe-UniTn](https://disi.unitn.it/~sebe/)
 
+# Japan(日本)
+
+- [Yutaka Matsuo-UTokyo](https://ymatsuo.com/)
+
 # Kingdom of Saudi Arabia(沙特阿拉伯)
 
 - [Mohamed Elhoseiny-KAUST](https://www.mohamed-elhoseiny.com/)
