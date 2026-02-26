@@ -69,6 +69,7 @@ A Collection of AIGC Research Groups
 - [Yebin Liu-THU(刘烨斌团队-清华大学)](https://www.liuyebin.com/index.html)
 - [Yujiu Yang-THU(杨余久团队-清华大学)](https://sites.google.com/view/iigroup-thu/home)
 - [Jiwen Lu-THU(鲁继文团队-清华大学)](https://ivg.au.tsinghua.edu.cn/Jiwen_Lu/)
+- [Gao Huang-THU(黄高团队-清华大学)](https://www.leaplab.ai/)
 - [Guo-Jun Qi-WLU(齐国君团队-西湖大学)](http://maple-lab.net/)
 - [Chi Zhang-WLU(张驰团队-西湖大学)](https://icoz69.github.io/)
 - [Nannan Wang-XDU(王楠楠团队-西安电子科技大学)](https://iip-xdu.github.io/index.html)
