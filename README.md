@@ -36,6 +36,7 @@ A Collection of AIGC Research Groups
 - [Wenhan Luo-HKUST(罗文寒团队-香港科技大学)](https://whluo.github.io/)
 - [Long Chen-HKUST(陈隆团队-香港科技大学)](https://long-group.cse.ust.hk/)
 - [Chi Keung Tang-HKUST(邓智強团队-香港科技大学)](https://cse.hkust.edu.hk/~cktang/bio.html)
+- [Ying-Cong Chen-HKUST(陈颖聪团队-香港科技大学)](https://www.yingcong.me/)
 
 ### Mainland(大陆)
 
