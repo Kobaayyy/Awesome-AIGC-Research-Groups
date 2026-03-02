@@ -27,6 +27,7 @@ A Collection of AIGC Research Groups
 - [Jiaya Jia-CUHK(贾佳亚团队-香港中文大学)](https://jiaya.me/)
 - [Tien-Tsing Wong-CUHK(黄田津团队-香港中文大学)](http://www.cse.cuhk.edu.hk/~ttwong/)
 - [Hongsheng Li-CUHK(李鸿升团队-香港中文大学)](https://www.ee.cuhk.edu.hk/~hsli/)
+- [Xiaoguang Han-CUHK(韩晓光团队-香港中文大学)](https://gaplab.cuhk.edu.cn/)
 - [Dong Xu-HKU(徐东团队-香港大学)](https://www.cs.hku.hk/people/academic-staff/dongxu)
 - [Hengshuang Zhao-HKU(赵恒爽团队-香港大学)](https://hszhao.github.io/)
 - [Ping Luo-HKU(罗平团队-香港大学)](http://luoping.me/)
