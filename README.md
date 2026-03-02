@@ -174,6 +174,7 @@ A Collection of AIGC Research Groups
 - [Dimitris Samaras-SBU](https://www3.cs.stonybrook.edu/~samaras/)
 - [Maneesh Agrawala-Stanford University](https://graphics.stanford.edu/~maneesh/)
 - [Gordon Wetzstein-Stanford University](https://web.stanford.edu/~gordonwz/)
+- [Stefano Ermon-Stanford University](https://cs.stanford.edu/~ermon/)
 - [Alexei A. Efros-UC Berkeley](https://people.eecs.berkeley.edu/~efros/)
 - [Trevor Darrell-UC Berkeley](https://people.eecs.berkeley.edu/~trevor/)
 - [Pieter Abbeel-UC Berkeley](https://people.eecs.berkeley.edu/~pabbeel/)
